@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Marcos Rodrigues, tenho 41 anos e sou de São Paulo capital.
-Estou estudando Programação FullStack na CEJABRASIL.
+Estou estudando Programação FullStack na CejaBRASIL.
 Procuro compartilhar meu conhecimento através de alguns projetos realizados e disponíveis aqui no GitHub e também através do Instagram, com o perfil chamado "[marcos.rodrigues83](https://www.instagram.com/marcos.rodrigues83)".
 
 <p align="left">        
