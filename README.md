@@ -93,7 +93,7 @@ Procuro compartilhar meu conhecimento através de alguns projetos realizados e d
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Marcos-83&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -101,7 +101,7 @@ Procuro compartilhar meu conhecimento através de alguns projetos realizados e d
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-83&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
